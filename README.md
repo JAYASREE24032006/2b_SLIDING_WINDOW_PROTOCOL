@@ -1,4 +1,7 @@
 # EX.NO.2B - IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
+**DATE : 28.02.2024**
+
 ## AIM:
 To implement the sliding window protocal using Python.
 ## ALGORITHM:
